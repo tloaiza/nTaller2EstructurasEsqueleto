@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compilados
+bin/
+target/
+
+# Archivos temporales
+*.log
+*.tmp
+*.DS_Store
+
+# Carpetas basura de Mac
+__MACOSX/
